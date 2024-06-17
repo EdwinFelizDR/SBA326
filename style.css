@@ -1,0 +1,25 @@
+body{
+   width: 800px;
+   height: 768px;
+   margin: 0px;
+}
+
+#banner{
+   padding: 7px;
+   display: flex;
+   align-items: center;
+}
+
+#navCtn{
+   width: 70%;
+}
+
+#logo{
+   padding: 7px;
+   margin: 4px;
+}
+
+#logoImg{
+   width: 76px;
+   aspect-ratio: 1;
+}
